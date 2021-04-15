@@ -17,9 +17,3 @@ document.write("<h2>" + primeiroValor + " - " + segundoValor + " = " + resultado
 else {
   document.write("<h2>Opção Inválida</h2>")
 }
-// document.write - escrevendo na tela
-// concatenação (juntar palavras com variáveis) - ("palavra" + variavel)
-// == dois iguais é usado para comparação (diferente do = usado para fazer atribuição)
-// if - condicional
-// else - senão
-// else if - 
